@@ -1,0 +1,42 @@
+.main {
+  margin-left: 10px;
+}
+#dv1 {
+  
+  width: 110px;
+  height: 160px;
+  background: black;
+  display: inline-block;
+ 
+}
+
+#dv2 {
+  
+  width: 110px;
+  height: 160px;
+  background: red;
+  display: inline-block;
+ 
+ 
+
+}
+
+#dv3 {
+  
+  width: 110px;
+  height: 160px;
+  background: blue;
+  display: inline-block;
+ 
+
+}
+
+  
+.t{
+  opacity: 0.1
+}
+.t1{
+  opacity: 1
+}
+  
+  
